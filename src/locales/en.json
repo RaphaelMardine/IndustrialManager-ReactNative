@@ -1,0 +1,121 @@
+{
+  "translation": {
+    "login": {
+      "user": "E-mail",
+      "password": "Password",
+      "forgot": "Forgot my password",
+      "access": "Access",
+      "createAccount": "Create an account",
+      "userNotFound": "User not found"
+    },
+    "forgotPassword": {
+      "submit": "Send reset link",
+      "back": "Back",
+      "user": "E-mail",
+      "title": "Password recovery",
+      "subTitle":
+        "To recover your password, enter your account registration email.",
+    },
+    "resetPassword": {
+      "submit": "Create new password",
+      "back": "Back",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm new password",
+      "title": "Password recovery",
+    },
+    "signup": {
+      "fullName": "Full name",
+      "email": "E-mail",
+      "confirmEmail": "Confirm e-mail",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "termsConditions": "I accept the terms and conditions",
+      "createAccount": "Create an account",
+      "goBack": "Back",
+    },
+    "messages": {
+      "fullNameRequired": "Full name is required",
+      "requiredValidEmail": "Insert a valid email",
+      "emailRequired": "E-mail is required",
+      "requiredValidConfirmEmail": "Insert a valid email",
+      "confirmEmailRequired": "E-mail is required",
+      "passwordMin8": "The password must have at least 8 characters",
+      "passwordRequired": "Password is required",
+      "confirmPasswordMin8": "The password must have at least 8 characters",
+      "confirmPassworRequired": "Confirm password is required",
+      "successRegister": "Register successfully",
+      "successForgotPass": "E-mail of recovery sent successfully",
+      "successResetPass": "Password successfully changed",
+      "successLogin": "Login successfully",
+      "errorLogin": "E-mail or password invalid",
+      "success": "Success",
+      "danger": "Error",
+      "warn": "Warning",
+      "passwordsMustMatch": "Passwords must match",
+      "nameRequiredToSave": "Name field cannot be blank.",
+      "emailRequiredToSave": "Email field cannot be blank.",
+      "phoneRequiredToSave": "Phone field cannot be blank.",
+      "universityRequiredToSave": "University field cannot be blank.",
+      "courseRequiredToSave": "Course field cannot be blank.",
+      "dateGraduationRequiredToSave": "Date Graduation field cannot be blank.",
+      "companyRequiredToSave": "Company field cannot be blank..",
+      "branchCompanyRequiredToSave": "Branch Company field cannot be blank.",
+      "occupationRequiredToSave": "Occupation field cannot be blank.",
+    },
+    "userData": {
+      "data": "My Data",
+      "profile": "Profile",
+      "changes": "Save changes",
+      "userName": "Name",
+      "email": "E-mail",
+      "phone": "Phone",
+      "graduation": "Graduation",
+      "university": "University",
+      "course": "Course",
+      "dateGraduation": "Date graduation",
+      "company": "Company",
+      "branchCompany": "Branch company",
+      "occupation": "Occupation"
+    },
+    "parameters": {
+      "title": "My Parameters"
+    },
+    "export": {
+      "data": "Export data"
+    },
+    "update": {
+      "password": "Update password"
+    },
+    "flow": {
+      "resourceExample": "Ex. Fork-lift",
+      "personalExample": "Ex. Operator",
+      "informationalExample": "Ex. ERP"
+    },
+    "button":{
+      "save": "Save",
+      "cancel": "Cancel",
+      "clear": "Clear",
+      "delete": "Delete param"
+    },
+    "maps": {
+      "title": "My Maps",
+      "name": "Name",
+      "unit": "Unit",
+      "factory": "Factory",
+      "sector": "Sector",
+      "cell": "Cell",
+      "machine": "Machine",
+      "tool": "Tool",
+      "createMap": "Create Map",
+      "cancel": "Cancel",
+      "startStep": "Start step",
+      "stepName": "Step name",
+      "stepType": "Step type",
+      "stepNew": "New Step",
+      "stream": "Stream",
+      "parameter": "Parameter",
+      "step": "Select Step",
+      "delete": "Delete map"
+    }
+  }
+}

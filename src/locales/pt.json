@@ -1,0 +1,122 @@
+{
+  "translation": {
+    "login": {
+      "user": "E-mail",
+      "password": "Senha",
+      "forgot": "Esqueci minha senha",
+      "access": "Acessar",
+      "createAccount": "Criar conta",
+      "userNotFound": "Usuário não encontrado"
+    },
+    "forgotPassword": {
+      "submit": "Enviar link de recuperação",
+      "back": "Voltar",
+      "user": "E-mail",
+      "title": "Recuperação de senha",
+      "subTitle": "Para recuperar sua senha, digite seu e-mail de cadastro."
+    },
+    "resetPassword": {
+      "submit": "Criar nova senha",
+      "back": "Voltar",
+      "newPassword": "Nova Senha",
+      "confirmNewPassword": "Confirmar nova senha",
+      "title": "Recuperação de senha"
+    },
+    "signup": {
+      "fullName": "Nome completo",
+      "email": "E-mail",
+      "confirmEmail": "Confirmar e-mail",
+      "password": "Senha",
+      "confirmPassword": "Confirmar senha",
+      "termsConditions": "Li e aceito com os termos e condições",
+      "createAccount": "Criar conta",
+      "goBack": "Voltar"
+    },
+    "messages": {
+      "fullNameRequired": "Nome completo é obrigatório",
+      "requiredValidEmail": "Insira um email válido",
+      "emailRequired": "E-mail é obrigatório",
+      "requiredValidConfirmEmail": "Insira um email válido",
+      "confirmEmailRequired": "E-mail é obrigatório",
+      "passwordMin8": "A senha deve ter no mínimo 8 caracteres",
+      "passwordRequired": "Senha é obrigatória",
+      "confirmPasswordMin8": "A senha deve ter no mínimo 8 caracteres",
+      "confirmPassworRequired": "Confirmar senha é obrigatória",
+      "successRegister": "Cadastro realizado com sucesso",
+      "successForgotPass": "E-mail de recuperação enviado com sucesso",
+      "successResetPass": "Senha alterada com sucesso",
+      "successLogin": "Login realizado com sucesso",
+      "errorLogin": "E-mail ou senha inválidos",
+      "success": "Sucesso",
+      "danger": "Erro",
+      "warn": "Aviso",
+      "passwordsMustMatch": "As senhas devem ser iguais",
+      "nameRequiredToSave": "O campo Nome não pode ficar em branco.",
+      "emailRequiredToSave": "O campo E-mail não pode ficar em branco.",
+      "phoneRequiredToSave": "O campo Telefone não pode ficar em branco.",
+      "universityRequiredToSave": "O campo Universidade não pode ficar em branco.",
+      "courseRequiredToSave": "O campo Curso não pode ficar em branco.",
+      "dateGraduationRequiredToSave":
+        "O campo Data Conclusão não pode ficar em branco.",
+      "companyRequiredToSave": "O campo Empresa não pode ficar em branco.",
+      "branchCompanyRequiredToSave":
+        "O campo Ramo da Empresa não pode ficar em branco.",
+      "occupationRequiredToSave": "O campo Cargo não pode ficar em branco."
+    },
+    "userData": {
+      "data": "Meus Dados",
+      "profile": "Perfil",
+      "changes": "Salvar alterações",
+      "userName": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "graduation": "Formação",
+      "university": "Universidade",
+      "course": "Curso",
+      "dateGraduation": "Data Conclusão",
+      "company": "Empresa",
+      "branchCompany": "Ramo da empresa",
+      "occupation": "Cargo"
+    },
+    "parameters": {
+      "title": "Meus Parametros"
+    },
+    "export": {
+      "data": "Exportar dados"
+    },
+    "update": {
+      "password": "Alterar senha"
+    },
+    "flow": {
+      "resourceExample": "Ex. Empilhadeira",
+      "personalExample": "Ex. Operador",
+      "informationalExample": "Ex. ERP"
+    },
+    "button": {
+      "save": "Salvar",
+      "cancel": "Cancelar",
+      "clear": "Limpar",
+      "delete": "Apagar parâmetro"
+    },
+    "maps": {
+      "title": "Meus Mapas",
+      "name": "Nome",
+      "unit": "Unidade",
+      "factory": "Fabrica",
+      "sector": "Setor",
+      "cell": "Célula",
+      "machine": "Máquina",
+      "tool": "Ferramenta",
+      "createMap": "Criar Mapa",
+      "cancel": "Cancelar",
+      "startStep": "Iniciar etapa",
+      "stepName": "Step name",
+      "stepType": "Step type",
+      "stepNew": "Nova etapa",
+      "stream": "Selecione o fluxo",
+      "parameter": "Selecione o parametro",
+      "step": "Selecione a etapa",
+      "delete": "Deletar mapa"
+    }
+  }
+}
